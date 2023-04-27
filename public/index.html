@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Business_List</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <form id="form" method="get">
+      <label for="name" name="name">BUSINESS_SEARCH_ENGINE</label>
+      <input
+        type="search"
+        id="keyword"
+        name="name"
+        placeholder="Enter Keyword" />
+      <input type="search" id="city" name="name" placeholder="City" />
+      <select id="state" name="country">
+        <option value="TX" selected>TX</option>
+        <option value="LA">LA</option>
+        <option value="IL">IL</option>
+        <option value="CA">CA</option>
+      </select>
+      <input type="number" id="limit" placeholder="100" />
+      <button id="button">Search</button>
+      <button id="buttonSave" class="hidden">Save</button>
+    </form>
+    <script src="script.js" type="module"></script>
+  </body>
+</html>
