@@ -1,0 +1,103 @@
+
+ID: 1
+  Name: Zagmout & Company CPAs
+  Web: http://zagmoutcpas.com/
+  Facebook: www.facebook.com/ZagmoutCPAs
+  Instagram: not found
+  Email: not found,
+ID: 2
+  Name: Dennis A Parker CPA Ltd
+  Web: http://dapcpa.com/
+  Facebook: not found
+  Instagram: not found
+  Email: dennis@dapcpa.com,
+ID: 3
+  Name: John H Brands CPA
+  Web: http://www.jhbrandscpas.com/
+  Facebook: www.facebook.com/J
+  Instagram: not found
+  Email: contact@jhbrandscpas.com,
+ID: 4
+  Name: John J Griffin CPA P.C.
+  Web: https://www.johngriffincpa.com/
+  Facebook: www.facebook.com/chicagoaccountingfirm
+  Instagram: not found
+  Email: info@johngriffincpa.com,
+ID: 5
+  Name: Ryan Goulding CPA
+  Web: http://gouldingcpa.com/
+  Facebook: not found
+  Instagram: not found
+  Email: not found,
+ID: 6
+  Name: Clarke Public Accounting
+  Web: http://www.clarkepa.com/
+  Facebook: not found
+  Instagram: not found
+  Email: not found,
+ID: 7
+  Name: Odoni Partners CPAs
+  Web: https://www.odonipartners.com/locations/chicago/
+  Facebook: www.facebook.com/OdoniPartners
+  Instagram: not found
+  Email: service@odonipartners.com,
+ID: 8
+  Name: Alan Sanchez, CPA, P.C.
+  Web: http://www.alansanchezcpa.com/
+  Facebook: not found
+  Instagram: not found
+  Email: not found,
+ID: 9
+  Name: Benford Brown & Associates, LLC
+  Web: http://www.benfordbrown.com/
+  Facebook: www.facebook.com/benfordbrownllc
+  Instagram: www.instagram.com/benfordbrownllc
+  Email: info@benfordbrown.com,
+ID: 10
+  Name: South Loop CPA, LLC
+  Web: http://www.southloopcpa.com/
+  Facebook: www.facebook.com/southloopcpa
+  Instagram: not found
+  Email: not found,
+ID: 11
+  Name: Community Accounting Services LLC
+  Web: http://www.chicagocpa.com/
+  Facebook: not found
+  Instagram: not found
+  Email: alpine@v2.x.x,
+ID: 12
+  Name: Prominent CPAs & Associates, LLC
+  Web: http://www.prominentcpa.com/
+  Facebook: not found
+  Instagram: not found
+  Email: info@iacctax.com,
+ID: 13
+  Name: MARK WONG CPA & ASSOCIATES LLC
+  Web: http://www.markwongcpa.com/
+  Facebook: undefined
+  Instagram: undefined
+  Email: undefined,
+ID: 14
+  Name: Enterprise CPA
+  Web: http://www.ecommercecpa.com/
+  Facebook: not found
+  Instagram: not found
+  Email: not found,
+ID: 15
+  Name: Founder's CPA
+  Web: http://www.founderscpa.com/
+  Facebook: www.facebook.com/founderscpa
+  Instagram: not found
+  Email: accounting@founderscpa.com,
+ID: 16
+  Name: Patrick J. Haddon, CPA, Ltd.
+  Web: http://pjhaddoncpa.com/
+  Facebook: not found
+  Instagram: not found
+  Email: patrick@pjhaddoncpa.com,
+ID: 17
+  Name: Alexa CPA Group Inc - Accounting, Tax, Audit and Consulting Services for Businesses and Individuals
+  Web: http://www.alexacpagroup.com/
+  Facebook: www.facebook.com/Alexa
+  Instagram: not found
+  Email: info@alexacpagroup.com

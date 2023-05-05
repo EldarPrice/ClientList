@@ -38,7 +38,7 @@ All Steps Happening Behind the Scene:
    - Facebook Page
    - Instagram Page
 
-   **Regular expression is used to find values on each website**
+**Regular expression is used to find values on each website**
 
 4. If no email found on the bussiness page and/or found Facebook page,
 
@@ -46,7 +46,12 @@ All Steps Happening Behind the Scene:
 
 5. Returns all data found to your Window
 
-6. Creates text file with all search values in the "marketing data" folder in the same directory for your convinience.
+6. Creates text file with all search values in the "Marketing data" folder in the same directory for your convinience.
+    Check example called "cpa-chicago-IL.txt"
+
+
+HINT: While App is running and loading data You can access "unfiltered Data" in the same Terminal where your server runs.
+
 
 Input values as shown on this picture:
 
