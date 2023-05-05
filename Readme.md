@@ -1,7 +1,29 @@
 This apps provides key data for those who are searching for new customers,
-businesses and social media profiles
+business emails and social media profiles of public businesses.
 
-Here are 4 step process involved:
+Installation:
+
+1. Make sure that Node.js is installed on your computer. You can download it from **https://nodejs.org/**.
+
+2. Navigate your terminal to the app folder using the **cd** command followed by the path to your app folder.
+    For example: **cd path/to/app-folder**.
+
+3. Install all node_modules by running the command **npm install**. 
+    This will install all the dependencies and devDependencies listed in the package.json file.
+
+4. Run the app by executing the command **npm run start**. 
+    This would start the local server on localhost:5000.
+
+5. Insert localhost:5000 into your web browser's address bar.
+
+6. After finished using the app run command **Command + 'C'** for MAC, or **Ctrl + 'C'** for Windows
+    This would stop local server running.
+
+
+**For App Manual please scroll down and follow instructions.**
+
+
+All Steps Happening Behind the Scene:
 
 1. Inputs your data to Google maps and searches for search keywords
 
@@ -33,7 +55,5 @@ Input values as shown on this picture:
 Results with scanned searches should look like this:
 
 ![App Results](./src/images/app_results.png)
-
-NOTE: FOR PRIVATE USE ONLY.
 
 **NOTE: This app is for private use only. Unauthorized use or distribution of the collected data is strictly prohibited.**
